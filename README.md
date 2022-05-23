@@ -8,7 +8,7 @@
 
 2. Key insights withdrawn
 
-- Finding 5 oldest users
+- Five oldest users
 - Two Most Popular Registration Date
 - Identify Inactive users(users with no photos)
 - Most liked photo
