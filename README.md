@@ -1,7 +1,7 @@
 # Instagram Database Clone
 
 
-1. Instagram Database clone with basic user details: Users, Photos, Comments, Likes, Hashtags & Followers Table
+1. Created Instagram Database clone with basic user details: Users, Photos, Comments, Likes, Hashtags & Followers Table
 
 --> The CODE can be found in 'ig_clone.sql'
 
