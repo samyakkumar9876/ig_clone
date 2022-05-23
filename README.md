@@ -1,5 +1,5 @@
-# ig_clone
-Instagram Database Clone
+# Instagram Database Clone
+
 
 1. Instagram Database clone with basic user details: Users, Photos, Comments, Likes, Hashtags & Followers Table
 
